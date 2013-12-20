@@ -1,0 +1,43 @@
+README:
+-------
+
+First pass at creating an ISA-TAB file from the following publication:
+Farag, M., Porzel, A., Schmidt, J. & Wessjohann, L. Metabolite profiling and fingerprinting of commercial cultivars of Humulus lupulus L. (hop) - a comparision of MS and NMR methods in metabolomics Metabolomics 8, 492-507, (2012)
+DOI 10.1007/s11306-011-0335-y
+
+information extraction from manuscript:
+-organism:
+-metabolite profiling in plant cones
+-metabolite profiling in resin derived from plant
+
+5 assays:
+mass spectrometry :
+	GC-MS (positive mode acquisition only ? -> to confirm)
+	LC-MS (positive mode acquisition only ? -> to confirm)
+	UPLC-MS (positive mode AND negative mode)
+	ESI-FTICR-MS (positive mode AND negative mode)
+
+nmr spectroscopy:
+	1D 1H-NMR 
+	2D 1H-13C NMR (not represented)
+
+wherever possible: ontology tagging using {NCBITaxonomy, Plant Ontology,CHEBI,OBI,GAZ,PSI-MS,Unit Ontology,}
+
+
+TODO:
+
+	check all files (cdf or mzml for ms, native files or nmrml files for nmr)
+
+	submit to CHEBI the following chemical:
+		methanol-d4
+		acetone-d6
+		Hexamethyldisiloxane (CAS 107-46-0)
+		lithium formiate	
+
+	add funder/grant information (absent from the manuscript)
+
+
+
+
+
+
