@@ -53,7 +53,7 @@ Study Publication Status	"published"
 Study Publication Status Term Accession Number	""
 Study Publication Status Term Source REF	""
 STUDY FACTORS
-Study Factor Name	"OBI:selectively maintained organism"
+Study Factor Name	"selectively maintained organism"
 Study Factor Type	"selectively maintained organism"
 Study Factor Type Term Accession Number	"obo:OBI_0001185"
 Study Factor Type Term Source REF	"OBI"
