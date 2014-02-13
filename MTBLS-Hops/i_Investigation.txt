@@ -1,8 +1,8 @@
 ONTOLOGY SOURCE REFERENCE
-Term Source Name	"CHEBI"	"OBI"	"PO"	"MS"	"UO"	"GAZ"	
-Term Source File	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/PO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/GAZ"	
-Term Source Version	"78"	"21"	"10"	"84"	"42"	"11"	
-Term Source Description	"Chemical Entities of Biological Interest Ontology"	"Ontology for Biomedical Investigations"	"Plant Ontology"	"Mass Spectrometry Ontology"	"Units of Measurement Ontology"	"Gazetteer"	
+Term Source Name	"CHEBI"	"OBI"	"NCBITAXON"	"PO"	"MS"	"UO"	"GAZ"	
+Term Source File	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/PO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/GAZ"	
+Term Source Version	"78"	"21"	"2"	"10"	"84"	"42"	"11"	
+Term Source Description	"Chemical Entities of Biological Interest Ontology"	"Ontology for Biomedical Investigations"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Plant Ontology"	"Mass Spectrometry Ontology"	"Units of Measurement Ontology"	"Gazetteer"	
 INVESTIGATION
 Investigation Identifier	"Inv_001"
 Investigation Title	"Investigation"
