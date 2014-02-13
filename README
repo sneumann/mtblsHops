@@ -12,7 +12,7 @@ information extraction from manuscript:
 
 5 assays:
 mass spectrometry :
-	GC-MS (positive mode acquisition only ? -> to confirm)
+	GC-MS (positive mode acquisition only: In General, there is only one ionisation polarity in GC)
 	LC-MS (positive mode acquisition only ? -> to confirm)
 	UPLC-MS (positive mode AND negative mode)
 	ESI-FTICR-MS (positive mode AND negative mode)
@@ -34,7 +34,7 @@ TODO:
 		Hexamethyldisiloxane (CAS 107-46-0)
 		lithium formiate	
 
-	add funder/grant information (absent from the manuscript)
+	add funder/grant information (absent from the manuscript). Done.
 
 
 
