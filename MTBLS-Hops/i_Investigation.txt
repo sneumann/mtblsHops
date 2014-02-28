@@ -1,8 +1,8 @@
 ONTOLOGY SOURCE REFERENCE
-Term Source Name	"CHEBI"	"OBI"	"NCBITAXON"	"PO"	"MS"	"SNOMEDCT"	"UO"	"GAZ"	
-Term Source File	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/PO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/SNOMEDCT"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/GAZ"	
-Term Source Version	"78"	"21"	"2"	"10"	"84"	"7"	"42"	"11"	
-Term Source Description	"Chemical Entities of Biological Interest Ontology"	"Ontology for Biomedical Investigations"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Plant Ontology"	"Mass Spectrometry Ontology"	"Systematized Nomenclature of Medicine - Clinical Terms"	"Units of Measurement Ontology"	"Gazetteer"	
+Term Source Name	"CHEBI"	"OBI"	"MS"	"NCBITAXON"	"PO"	"SNOMEDCT"	"UO"	"GAZ"	
+Term Source File	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/PO"	"http://data.bioontology.org/ontologies/SNOMEDCT"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/GAZ"	
+Term Source Version	"78"	"21"	"83"	"2"	"10"	"7"	"42"	"11"	
+Term Source Description	"Chemical Entities of Biological Interest Ontology"	"Ontology for Biomedical Investigations"	"Mass Spectrometry Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Plant Ontology"	"Systematized Nomenclature of Medicine - Clinical Terms"	"Units of Measurement Ontology"	"Gazetteer"	
 INVESTIGATION
 Investigation Identifier	"Inv_001"
 Investigation Title	"Investigation"
@@ -37,11 +37,11 @@ STUDY
 Study Identifier	"MTBLS-HOPS"
 Study Title	"Metabolite profiling and fingerprinting of commercial cultivars of Humulus lupulus: a comparison of MS and NMR methods in metabolomics"
 Study Description	"Hop (Humulus lupulus L. Cannabaceae) is an economically important crop. In addition to its role in beer brewing, its pharmaceutical applications have been of increasing importance in recent years. Bitter acids (prenylated polyketides), prenylflavonoids and essential oils, are the primary phytochemical components that account for hop medicinal value. An integrated approach utilizing nuclear magnetic resonance (NMR) and mass spectrometry (MS) techniques was used for the first large-scale metabolite profiling in Humulus lupulus. Resins and extracts prepared from 13 hop cultivars were analysed using NMR, liquid chromatography (LC)-MS and fourier transform ion cyclotron resonance (FTICR)-MS in parallel and subjected to principal component analysis (PCA). A one pot extraction method, compatible with both MS and NMR measurement was developed to help rule out effects due to differences in extraction protocols. Under optimised conditions, we were able to simultaneously quantify and identify 46 metabolites including 18 bitter acids, 12 flavonoids, 3 terpenes, 3 fatty acids and 2 sugars. Cultivars segregation in PCA plots generated from both LC-MS and NMR data were found comparable and mostly influenced by differences in bitter acids composition among cultivars. FTICR-MS showed inconsistent PCA loading plot results which are likely due to preferential ionisation and also point to the presence of novel isoprenylated metabolites in hop. This comparative metabolomic approach provided new insights for the complementariness and coincidence for these different technology platform applications in hop and similar plant metabolomics projects."
+Comment[Study Grant Number]	""
+Comment[Study Funding Agency]	"Humboldt-foundation, Germany"
 Study Submission Date	""
 Study Public Release Date	""
 Study File Name	"s_MTBLS-HOPS.txt"
-Comment[Study Grant Number]	""
-Comment[Study Funding Agency]	"Humboldt-foundation, Germany"
 STUDY DESIGN DESCRIPTORS
 Study Design Type	"strain comparison design"
 Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0001464"
@@ -95,3 +95,4 @@ Study Person Affiliation	"Department of Bio-organic Chemistry, Leibniz Institute
 Study Person Roles	""	""	""	"corresponding author"	""
 Study Person Roles Term Accession Number	""	""	""	""	""
 Study Person Roles Term Source REF	""	""	""	""	""
+Comment[Study Person REF]	""	""	""	""	""
